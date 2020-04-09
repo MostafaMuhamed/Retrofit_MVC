@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <TextView
+        android:id="@+id/txt_id_item_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_margin="5dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_name_item_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_margin="5dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_user_name_item_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_margin="5dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_email_item_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_margin="5dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_street_item_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_margin="5dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_suite_item_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_margin="5dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_city_item_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_margin="5dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_zip_code_item_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_margin="5dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_lat_item_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_margin="5dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_lng_item_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_margin="5dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_phone_item_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_margin="5dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_website_item_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_margin="5dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_company_name_item_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_margin="5dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_catchPhrase_item_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_margin="5dp"
+        />
+
+
+    <TextView
+        android:id="@+id/txt_bs_item_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:layout_margin="5dp"
+        />
+
+
+
+
+</LinearLayout>
