@@ -5,3 +5,4 @@ Using :-
 3.ViewPager
 4.API
 5.RecyclerView
+6.Fragment
